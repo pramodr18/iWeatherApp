@@ -40,7 +40,7 @@ function Maindisplay() {
               setSearch(event.target.value);
             }}
           />
-          <button className="btn btn-primary " type="submit" onClick={() => alert("It's dommy button bro!")}>
+          <button className="btn btn-primary " type="submit" onClick={() => alert("It's dummy button bro!")}>
             Search
           </button>
         </form>
