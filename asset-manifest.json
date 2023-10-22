@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/iWeatherApp/static/css/main.073c9b0a.css",
+    "main.js": "/iWeatherApp/static/js/main.7a1923a4.js",
+    "static/js/787.af953d0a.chunk.js": "/iWeatherApp/static/js/787.af953d0a.chunk.js",
+    "static/media/humidity.png": "/iWeatherApp/static/media/humidity.0fa55e43b0d65b99a3fa.png",
+    "static/media/rain.png": "/iWeatherApp/static/media/rain.c80d83bceb5b74c93b36.png",
+    "static/media/fresh-air.png": "/iWeatherApp/static/media/fresh-air.c4521ef5f7c12b0066d0.png",
+    "index.html": "/iWeatherApp/index.html",
+    "main.073c9b0a.css.map": "/iWeatherApp/static/css/main.073c9b0a.css.map",
+    "main.7a1923a4.js.map": "/iWeatherApp/static/js/main.7a1923a4.js.map",
+    "787.af953d0a.chunk.js.map": "/iWeatherApp/static/js/787.af953d0a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.7a1923a4.js"
+  ]
+}
